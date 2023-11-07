@@ -1,7 +1,7 @@
 # Tarea-IOS
 **Juego de Imagenes** es una aplicación para iOS que te desafía a recordar una secuencia de imágenes y luego poner a prueba tu memoria.
 
-##Características Principales
+## Características Principales
 
 - Muestra una secuencia de imágenes aleatorias.
 - Permite al usuario repetir la secuencia de imágenes.
